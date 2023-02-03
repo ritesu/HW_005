@@ -94,8 +94,8 @@ void PrintNew_Array(int[,] new_form)
         Console.WriteLine();
     }
 }
-PrintArray(form);
 PrintForm();
+PrintArray(form);
 PrintNew_Form();
 c++;
 d++;
